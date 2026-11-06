@@ -1,1 +1,21 @@
+# Deep Learning
+torch
+torchvision
 
+# Data Processing
+numpy
+pandas
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning Evaluation
+scikit-learn
+
+# Progress Bars
+tqdm
+
+# Configuration and Utilities
+PyYAML
