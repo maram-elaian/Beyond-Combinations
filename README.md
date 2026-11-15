@@ -1,4 +1,4 @@
-# Beyond Combinations /ᐠ｡ꞈ｡ᐟ\
+# Beyond Combinations 
 ### Visual Generalization to Unseen Attribute–Object Combinations
 
 ## Overview
