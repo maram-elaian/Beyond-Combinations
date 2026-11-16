@@ -89,7 +89,7 @@ Beyond-Combinations/
 
 ## Development Status
 
-<em>Currently in the dataset exploration and preprocessing stage.</em>
+<em>Currently in the preprocessing stage.</em>
 
 Model implementation, training, evaluation, and comparison will follow.
 
