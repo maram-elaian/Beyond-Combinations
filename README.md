@@ -95,7 +95,7 @@ Model implementation, training, evaluation, and comparison will follow.
 
 ## Author
 
-**Maram Ashraf**
+**Maram Ashraf Ellain**
 
 Bachelor of Artificial Intelligence  
 Al-Zaytoonah University of Jordan
